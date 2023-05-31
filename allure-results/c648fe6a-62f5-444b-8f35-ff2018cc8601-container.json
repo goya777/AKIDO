@@ -1,0 +1,1 @@
+{"uuid":"c648fe6a-62f5-444b-8f35-ff2018cc8601","name":"POMtest","children":["c508ea40-fc06-436e-837f-6f72acaeb230"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1683284655772,"stop":1683284662548}],"afters":[],"start":1683284655724,"stop":1683284685057}
